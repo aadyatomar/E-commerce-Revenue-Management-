@@ -1,2 +1,2 @@
-# E-commerce-Revenue-Management-
+# E commerce Revenue Management-
 Course-Python
